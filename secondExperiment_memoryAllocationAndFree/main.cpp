@@ -7,6 +7,7 @@ void MemoryMamagement() ;
 
 int main() {	
 	MemoryMamagement () ;
+	return 0 ;
 }
 void MemoryMamagement() {
 	cout << "可变分区最先适应分配算法(First Adaptive Allocation Algorithm )分配内存\n" ;
